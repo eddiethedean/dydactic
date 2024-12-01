@@ -1,0 +1,1 @@
+A Python package used to easily validate iterables using Pydantic.
