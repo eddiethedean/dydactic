@@ -1,1 +1,3 @@
-from validate import validate
+__version__ = '0.1.2'
+
+from dydactic.validate import validate

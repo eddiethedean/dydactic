@@ -2,10 +2,10 @@ import typing as _typing
 
 import pydantic as _pydantic
 
-import result as _result
-import options as _options
-import record as _record
-import cast as _cast
+from . import result as _result
+from . import options as _options
+from . import record as _record
+from . import cast as _cast
 
 
 def validate_record(

@@ -2,7 +2,7 @@ import typing as _t
 
 import pydantic as _pydantic
 
-import record as _record
+from . import record as _record
 
 
 class RecordValidationResult(_t.NamedTuple):
