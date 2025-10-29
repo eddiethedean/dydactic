@@ -13,7 +13,7 @@ dependencies = [
     "pydantic>=2.9.2",
     "python-dateutil"
 ]
-license = {text = "MIT License"}
+license = {text = "MIT"}
 keywords = ["iterable", "validation", "iterator", "model"]
 
 [project.optional-dependencies]
